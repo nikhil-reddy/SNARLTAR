@@ -10,8 +10,8 @@ Requires Open SSL packages installed in the target machine.
 
 FOLDER CONTENTS:
 ----------------
-README.txt          -> This file
-Sellie-Lund_Ramchandran_DevireddyVenkata     -> plaintext for encryption and decryption.
+README.md          -> This file
+plaintext.txt-> plaintext for encryption and decryption.
 source.cpp   -> Application Source
 Sellie-Lund_Ramchandran_DevireddyVenkata-presentation.ppt -> Our Presentation of the same.
 
