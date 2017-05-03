@@ -10,10 +10,14 @@ Requires Open SSL packages installed in the target machine.
 
 FOLDER CONTENTS:
 ----------------
-README.md          -> This file /n
-plaintext.txt-> plaintext for encryption and decryption./n
-source.cpp   -> Application Source /n
-Sellie-Lund_Ramchandran_DevireddyVenkata-presentation.ppt -> Our Presentation of the same. /n
+README.md          -> This file
+
+plaintext.txt-> plaintext for encryption and decryption.
+
+source.cpp   -> Application Source
+
+Sellie-Lund_Ramchandran_DevireddyVenkata-presentation.ppt -> Our Presentation of the same.
+
 
 RUN the EXECUTABLE:
 -------------------
